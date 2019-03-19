@@ -1,0 +1,3 @@
+insert into previsao (id, dia, minima, maxima, humidade, descricao) values (1, 'Segunda-Feira', 21, 30, 30, 'Parcialmente nublado, com possibilidade de tempestade.');
+insert into previsao (id, dia, minima, maxima, humidade, descricao) values (2, 'Terca-Feira', 19, 29, 50, 'Tempestade se formando à tarde.');
+insert into previsao (id, dia, minima, maxima, humidade, descricao) values (3, 'Quarta-Feira', 19, 26, 20, 'Nublado, Pancadas de chuva de madrugada');
